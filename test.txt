@@ -1,1 +1,3 @@
 git lol pull
+git pull git
+add some feature text
